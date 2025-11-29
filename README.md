@@ -35,7 +35,7 @@ Created using QGIS, OpenStreetMap data, and visual enhancement through Canva.
 
 ## 📍 Overview
 <p align="center">
-  <img width="1080" height="1080" alt="Desain tanpa judul" src="https://github.com/user-attachments/assets/4dc1cf34-3bf9-4895-88a6-3412134319ba" />
+  <img width="1080" height="1080" alt="Desain tanpa judul (3)" src="https://github.com/user-attachments/assets/2f9b1d61-bab8-4f4d-9f8a-9480ba8680a0" />
   </p>
 
 This project visualizes how wind flow, heat accumulation, and green–blue elements shape the microclimate of Denpasar.
