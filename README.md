@@ -113,5 +113,5 @@ MIT License — free to use for research, portfolio, and educational purposes.
 
 ## 🙌 Acknowledgements
 
-Mapping & visualization by **[Your Name]**  
+Mapping & visualization by **[SAMUELI WINDOVADO FAU]**  
 Data © OpenStreetMap contributors
